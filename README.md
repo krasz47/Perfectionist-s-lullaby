@@ -15,4 +15,4 @@ The language features 8 operations
 5. \* :  Duplicates the last element and puts it at the end of the stack.
 6. | :  Inverts each bit in the last element (The 1s complement).
 7. ~ :  Switches the first 4 bits of a byte with its last 4 bits (e.g. 1001 0110 becomes 0110 1001).
-8. . :  Prints out every stack element's value in ASCII, from left to right
+8. . :  Prints out every stack element's value in ASCII, from left to right (full stop, in case not clear)
